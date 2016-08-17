@@ -9,7 +9,10 @@ The Gravity API allows 2 thing:
 1.  Push data into Quantum.io Dashboards for business agility (JSON & XML)
 2.  Pull raw data, graph widgets to include in 3rd party apps or reports.
 
+Use the "embed" feature to embed widgets into software to combine data sets from other apps.  Use www.zapier.com to include app data from 500+ apps (super quick to build dashboards)
+
 For full information on Quantum.io KPI & IoT Dashboards visit: 
 https://goquantum.io
+
 Login/Register here: app.goquantum.io
 
